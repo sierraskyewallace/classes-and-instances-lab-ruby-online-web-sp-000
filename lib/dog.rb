@@ -1,7 +1,2 @@
-class Dog
-  attr_accessor :name 
+class Dog 
   
-  fido.new 
-  snoopy.new 
-  lassie.new 
-end
