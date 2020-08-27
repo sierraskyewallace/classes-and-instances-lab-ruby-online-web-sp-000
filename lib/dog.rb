@@ -5,6 +5,3 @@ class Dog
   snoopy.new 
   lassie.new 
 end
-end
-
-  
